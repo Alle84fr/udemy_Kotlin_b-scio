@@ -1,16 +1,29 @@
-package um_introducao/* ir na pasta src onde está os arquivos
+/* ir na pasta src onde está os arquivos
 programa inicia no método main
 funções = fun
  */
 
 fun main (args: Array<String>){
     print("Saluton Mondo")
+
+    System.out.println("Hello Cód Java do mundo")
+
 }
 
 /* depois apertar play - parte de cima, seta verde
 main = nome da função
 iniciar o parâmetros ()
 args = argumentos
+no formato array
+com tipo string
+
+                                      ---------- ATENÇÃO --------------------------------------------
+
+                                    print = printa na mesma linha, em linha (ver como ficou ao dar play
+
+                                    * USAR println - que pula a lina (tipo \ln do python)
+                                      -----------------------------------------------------------------
+
 array = estrutura de dados que armazena elemntos DO MESMO TIPO, eficiêntes para operações numéricas
 de grande escala
 usase com:
